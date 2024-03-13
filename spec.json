@@ -1,0 +1,407 @@
+[
+  {
+    "spec_cost": "100",
+    "name": "3rd age axe",
+    "ids": "20011"
+  },
+  {
+    "spec_cost": "100",
+    "name": "3rd age pickaxe",
+    "ids": "20014"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Abyssal bludgeon",
+    "ids": "13263"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Abyssal dagger",
+    "ids": "13265"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Abyssal tentacle",
+    "ids": "12006"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Abyssal whip",
+    "ids": "4151"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Ancient godsword",
+    "ids": "26233"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Ancient mace",
+    "ids": "11061"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Arclight",
+    "ids": "19675"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Armadyl crossbow",
+    "ids": "11785,23611"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Armadyl godsword",
+    "ids": "11802,20593"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Bandos godsword",
+    "ids": "11804"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Barrelchest anchor",
+    "ids": "10887"
+  },
+  {
+    "spec_cost": "10",
+    "name": "Blisterwood flail",
+    "ids": "24699"
+  },
+  {
+    "spec_cost": "75",
+    "name": "Bone dagger",
+    "ids": "8872"
+  },
+  {
+    "spec_cost": "75",
+    "name": "Brine sabre",
+    "ids": "11037"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Crystal axe",
+    "ids": "23673"
+  },
+  {
+    "spec_cost": "30",
+    "name": "Crystal halberd",
+    "ids": "23987"
+  },
+  {
+    "spec_cost": "30",
+    "name": "Crystal halberd (i)",
+    "ids": "13080"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Crystal harpoon",
+    "ids": "23762"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Crystal pickaxe",
+    "ids": "23680"
+  },
+  {
+    "spec_cost": "55",
+    "name": "Dark bow",
+    "ids": "11235,20408"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Darklight",
+    "ids": "6746"
+  },
+  {
+    "spec_cost": "35",
+    "name": "Dawnbringer",
+    "ids": "22516"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Dinh's bulwark",
+    "ids": "21015"
+  },
+  {
+    "spec_cost": "75",
+    "name": "Dorgeshuun crossbow",
+    "ids": "8880"
+  },
+  {
+    "spec_cost": "60",
+    "name": "Dragon 2h sword",
+    "ids": "7158"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Dragon axe",
+    "ids": "6739"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Dragon battleaxe",
+    "ids": "1377"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Dragon claws",
+    "ids": "13652,20784"
+  },
+  {
+    "spec_cost": "60",
+    "name": "Dragon crossbow",
+    "ids": "21902"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Dragon dagger",
+    "ids": "1215"
+  },
+  {
+    "spec_cost": "30",
+    "name": "Dragon halberd",
+    "ids": "3204"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Dragon harpoon",
+    "ids": "21028"
+  },
+  {
+    "spec_cost": "5",
+    "name": "Dragon hasta",
+    "ids": "22731"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Dragon knife",
+    "ids": "22804"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Dragon longsword",
+    "ids": "1305"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Dragon mace",
+    "ids": "1434"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Dragon pickaxe",
+    "ids": "11920"
+  },
+  {
+    "spec_cost": "55",
+    "name": "Dragon scimitar",
+    "ids": "4587"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Dragon spear",
+    "ids": "1249"
+  },
+  {
+    "spec_cost": "40",
+    "name": "Dragon sword",
+    "ids": "21009"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Dragon thrownaxe",
+    "ids": "20849"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Dragon warhammer",
+    "ids": "13576"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Excalibur",
+    "ids": "35"
+  },
+  {
+    "spec_cost": "60",
+    "name": "Granite hammer",
+    "ids": "21742"
+  },
+  {
+    "spec_cost": "60",
+    "name": "Granite maul",
+    "ids": "4153,20557"
+  },
+  {
+    "spec_cost": "60",
+    "name": "Granite maul (or)",
+    "ids": "12848"
+  },
+  {
+    "spec_cost": "65",
+    "name": "Heavy ballista",
+    "ids": "19481,23630"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Infernal axe",
+    "ids": "13241"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Infernal harpoon",
+    "ids": "21031"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Infernal pickaxe",
+    "ids": "13243"
+  },
+  {
+    "spec_cost": "10",
+    "name": "Ivandis flail",
+    "ids": "22398"
+  },
+  {
+    "spec_cost": "65",
+    "name": "Light ballista",
+    "ids": "19478,27188"
+  },
+  {
+    "spec_cost": "35",
+    "name": "Magic comp bow",
+    "ids": "10284"
+  },
+  {
+    "spec_cost": "35",
+    "name": "Magic longbow",
+    "ids": "859"
+  },
+  {
+    "spec_cost": "55",
+    "name": "Magic shortbow",
+    "ids": "861"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Magic shortbow (i)",
+    "ids": "12788"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Morrigan's javelin",
+    "ids": "27916,22636,23619"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Osmumten's fang",
+    "ids": "26219"
+  },
+  {
+    "spec_cost": "10",
+    "name": "Rod of ivandis",
+    "ids": "7648"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Rune claws",
+    "ids": "3101"
+  },
+  {
+    "spec_cost": "10",
+    "name": "Rune thrownaxe",
+    "ids": "805"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Saradomin godsword",
+    "ids": "11806"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Saradomin sword",
+    "ids": "11838"
+  },
+  {
+    "spec_cost": "65",
+    "name": "Saradomin's blessed sword",
+    "ids": "12809"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Seercull",
+    "ids": "6724"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Staff of balance",
+    "ids": "24144"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Staff of light",
+    "ids": "22296"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Staff of the dead",
+    "ids": "11791,23613"
+  },
+  {
+    "spec_cost": "35",
+    "name": "Statius's warhammer",
+    "ids": "27908,22622,23620"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Toxic blowpipe",
+    "ids": "12924"
+  },
+  {
+    "spec_cost": "100",
+    "name": "Toxic staff of the dead",
+    "ids": "12902"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Ursine chainmace",
+    "ids": "27657"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Vesta's blighted longsword",
+    "ids": "24617"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Vesta's longsword",
+    "ids": "22613,23615"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Voidwaker",
+    "ids": "27690,27869"
+  },
+  {
+    "spec_cost": "50",
+    "name": "Zamorak godsword",
+    "ids": "11808"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Zamorakian hasta",
+    "ids": "11889"
+  },
+  {
+    "spec_cost": "25",
+    "name": "Zamorakian spear",
+    "ids": "11824"
+  },
+  {
+    "spec_cost": "75",
+    "name": "Zaryte crossbow",
+    "ids": "26374"
+  }
+]
