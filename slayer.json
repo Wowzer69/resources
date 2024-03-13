@@ -194,6 +194,11 @@
     "name": "Wolf",
     "style": "MELEE"
   },
+    {
+    "prayer": "Protect from Melee",
+    "name": "Fleshcrawlers",
+    "style": "MELEE"
+  },
   {
     "prayer": "Protect from Melee",
     "name": "Kurask",
