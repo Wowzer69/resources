@@ -1,0 +1,836 @@
+[
+  {
+    "name": "Abyssal Sire",
+    "ids": "5886,5887,5888",
+    "styles": "Melee",
+    "speed": "7"
+  },
+  {
+    "name": "Agrith Naar",
+    "ids": "911,6388",
+    "styles": "Crush,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Agrith-Na-Na",
+    "ids": "4880",
+    "styles": "Crush,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Ahrim the Blighted",
+    "ids": "1672",
+    "styles": "Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Akkha",
+    "ids": "11789,11790,11791,11792,11793,11794,11795,11796",
+    "styles": "Melee,Magic,Ranged",
+    "speed": "6"
+  },
+  {
+    "name": "Alchemical Hydra",
+    "ids": "8615,8616",
+    "styles": "Ranged,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Arrg",
+    "ids": "643,642",
+    "styles": "Slash,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Artio",
+    "ids": "11992",
+    "styles": "Crush,Magic,Ranged",
+    "speed": "5"
+  },
+  {
+    "name": "Arzinian Avatar of Magic",
+    "ids": "1233",
+    "styles": "Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Arzinian Avatar of Ranging",
+    "ids": "1230",
+    "styles": "Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Arzinian Avatar of Strength",
+    "ids": "1227",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Ba-Ba",
+    "ids": "11778,11779,11780",
+    "styles": "Melee,Ranged",
+    "speed": "6"
+  },
+  {
+    "name": "Barrelchest",
+    "ids": "600,6342",
+    "styles": "Crush,Ranged",
+    "speed": "5"
+  },
+  {
+    "name": "Black Knight Titan",
+    "ids": "4067",
+    "styles": "Crush",
+    "speed": "7"
+  },
+  {
+    "name": "Black demon",
+    "ids": "240,2048,2049,2050,2051,2052,5874,5875,5876,5877",
+    "styles": "Slash",
+    "speed": "4"
+  },
+  {
+    "name": "Black golem",
+    "ids": "4742",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Bouncer",
+    "ids": "1224",
+    "styles": "Stab",
+    "speed": "4"
+  },
+  {
+    "name": "Bouncer (ghost)",
+    "ids": "3508,3509",
+    "styles": "Stab",
+    "speed": "4"
+  },
+  {
+    "name": "Bryophyta",
+    "ids": "8195",
+    "styles": "Crush,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Callisto",
+    "ids": "6609",
+    "styles": "Crush,Magic,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Calvar'ion",
+    "ids": "11993",
+    "styles": "Slash,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Cerberus",
+    "ids": "5862,5863,5866",
+    "styles": "Stab,Ranged,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Chaos Elemental",
+    "ids": "2054",
+    "styles": "Magic,Ranged,Melee (Crush?)",
+    "speed": "4"
+  },
+  {
+    "name": "Chaos Fanatic",
+    "ids": "6619",
+    "styles": "Magic",
+    "speed": "2"
+  },
+  {
+    "name": "Chronozon",
+    "ids": "4987,6354",
+    "styles": "Slash",
+    "speed": "4"
+  },
+  {
+    "name": "Commander Zilyana",
+    "ids": "2205",
+    "styles": "Crush,Magic",
+    "speed": "2"
+  },
+  {
+    "name": "Corporeal Beast",
+    "ids": "319",
+    "styles": "Crush,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Corrupted Hunllef",
+    "ids": "9035,9036,9037,9038",
+    "styles": "Magic,Ranged",
+    "speed": "5"
+  },
+  {
+    "name": "Count Draynor",
+    "ids": "3481,3482,6393",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Crazy archaeologist",
+    "ids": "6618",
+    "styles": "Ranged,Crush",
+    "speed": "3"
+  },
+  {
+    "name": "Culinaromancer",
+    "ids": "3400,4849,4872,4873,4874,4875,4876,4877,4878,4879,6368",
+    "styles": "Melee,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Dad",
+    "ids": "4130,6391",
+    "styles": "Crush",
+    "speed": "8"
+  },
+  {
+    "name": "Dagannoth Prime",
+    "ids": "2266",
+    "styles": "Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Dagannoth Rex",
+    "ids": "2267",
+    "styles": "Slash",
+    "speed": "4"
+  },
+  {
+    "name": "Dagannoth Supreme",
+    "ids": "2265",
+    "styles": "Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Dagannoth mother",
+    "ids": "980,981,982,983,984,985,986,987,988,6361,6362,6363,6364,6365,6366",
+    "styles": "Melee,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Damis",
+    "ids": "682,6346",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Dawn",
+    "ids": "7852,7853,7884,7885",
+    "styles": "Slash,Ranged,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Delrith",
+    "ids": "5079",
+    "styles": "Melee",
+    "speed": "6"
+  },
+  {
+    "name": "Deranged archaeologist",
+    "ids": "7806",
+    "styles": "Ranged,Melee",
+    "speed": "3"
+  },
+  {
+    "name": "Dessourt",
+    "ids": "4883,6372",
+    "styles": "Crush,Magic,Magical ranged",
+    "speed": "3"
+  },
+  {
+    "name": "Dessous",
+    "ids": "3459,3460,6344",
+    "styles": "Crush,Magic,Ranged",
+    "speed": "3"
+  },
+  {
+    "name": "Dharok the Wretched",
+    "ids": "1673",
+    "styles": "Slash",
+    "speed": "7"
+  },
+  {
+    "name": "Duke Sucellus",
+    "ids": "12191",
+    "styles": "Magic &amp; Melee",
+    "speed": "5"
+  },
+  {
+    "name": "Dusk",
+    "ids": "7851,7854,7855,7882,7883,7886",
+    "styles": "Crush",
+    "speed": "6"
+  },
+  {
+    "name": "Elidinis' Warden",
+    "ids": "11746,11748",
+    "styles": "Melee,Ranged,Magic",
+    "speed": "7"
+  },
+  {
+    "name": "Elvarg",
+    "ids": "817,8033,6349",
+    "styles": "Melee,Magic,Dragonfire",
+    "speed": "4"
+  },
+  {
+    "name": "Evil spirit",
+    "ids": "625",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Fareed",
+    "ids": "3456,6348",
+    "styles": "Slash,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Flambeed",
+    "ids": "4881,6370",
+    "styles": "Crush,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Gadderanks",
+    "ids": "4483,4484,4485,9635",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Galvek",
+    "ids": "8094,8095,8177",
+    "styles": "Slash,Ranged,Magic,Dragonfire",
+    "speed": "6"
+  },
+  {
+    "name": "Gelatinnoth Mother",
+    "ids": "4884,4885,4886,4887,4888,4889,6373,6374,6375,6376,6377,6378",
+    "styles": "Ranged,Magic,Stab",
+    "speed": "4"
+  },
+  {
+    "name": "General Graardor",
+    "ids": "2215",
+    "styles": "Crush,Ranged",
+    "speed": "6"
+  },
+  {
+    "name": "General Khazard",
+    "ids": "1213,12025,12026,12027,12054,12055,12056,12057,12058,12059",
+    "styles": "Slash",
+    "speed": "4"
+  },
+  {
+    "name": "Giant Mole",
+    "ids": "5779",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Giant Roc",
+    "ids": "763,6384",
+    "styles": "Crush,Ranged",
+    "speed": "6"
+  },
+  {
+    "name": "Giant Scarab",
+    "ids": "797,798,6343",
+    "styles": "Stab,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Giant Sea Snake",
+    "ids": "1101",
+    "styles": "Crush,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Glod",
+    "ids": "5129,6358",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Glough",
+    "ids": "1425,2061,7100,7115",
+    "styles": "Crush,Ranged,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Great Olm",
+    "ids": "7551",
+    "styles": "Magic,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Grey golem",
+    "ids": "4744",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Guthan the Infested",
+    "ids": "1674",
+    "styles": "Crush",
+    "speed": "5"
+  },
+  {
+    "name": "Hespori",
+    "ids": "8583",
+    "styles": "Ranged,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Ice Troll King",
+    "ids": "5822,6356",
+    "styles": "Crush,Magic,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Ice demon",
+    "ids": "7584",
+    "styles": "Ranged,Magic",
+    "speed": "3"
+  },
+  {
+    "name": "Judge of Yama",
+    "ids": "10936,10938",
+    "styles": "Magic,Melee",
+    "speed": "4"
+  },
+  {
+    "name": "Jungle Demon",
+    "ids": "1443,6382",
+    "styles": "Slash,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "ids": "3129",
+    "styles": "Slash,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Kalphite Queen",
+    "ids": "963,4303",
+    "styles": "Stab,Ranged,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Kamil",
+    "ids": "3458,6345",
+    "styles": "Melee,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Karamel",
+    "ids": "4882,6371",
+    "styles": "Magic,Ranged",
+    "speed": "3"
+  },
+  {
+    "name": "Karil the Tainted",
+    "ids": "1675",
+    "styles": "Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Kephri",
+    "ids": "11719,11721",
+    "styles": "Magic",
+    "speed": "6"
+  },
+  {
+    "name": "King Black Dragon",
+    "ids": "239",
+    "styles": "Stab,Dragonfire",
+    "speed": "4"
+  },
+  {
+    "name": "Koschei the deathless",
+    "ids": "3897",
+    "styles": "Melee",
+    "speed": "4"
+  },
+  {
+    "name": "Kraken",
+    "ids": "496",
+    "styles": "Typeless Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Kree'arra",
+    "ids": "3162",
+    "styles": "Ranged,Ranged magic,Melee",
+    "speed": "3"
+  },
+  {
+    "name": "Me",
+    "ids": "785",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Melzar the Mad",
+    "ids": "823",
+    "styles": "Magic,Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Moss Guardian",
+    "ids": "891",
+    "styles": "Crush,Magic melee",
+    "speed": "6"
+  },
+  {
+    "name": "Muttadile",
+    "ids": "7562",
+    "styles": "Melee,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Nex",
+    "ids": "11278,11279,11280,11281,11282",
+    "styles": "Magic,Ranged,Melee",
+    "speed": "4"
+  },
+  {
+    "name": "Nezikchened",
+    "ids": "3962,6379",
+    "styles": "Slash,Magic",
+    "speed": "5"
+  },
+  {
+    "name": "Nylocas Vasilias",
+    "ids": "10786,10787,10788,10789",
+    "styles": "Stab,Magic,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Obor",
+    "ids": "7416",
+    "styles": "Crush,Ranged",
+    "speed": "6"
+  },
+  {
+    "name": "Penance Queen",
+    "ids": "5775",
+    "styles": "Melee,Single and multi-target Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Phantom Muspah",
+    "ids": "12077",
+    "styles": "Ranged,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Phosani's Nightmare",
+    "ids": "9416,9417,9418,9419,9420,9421,9422,9424,11153,11154,11155",
+    "styles": "Slash,Ranged,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Revenant maledictus",
+    "ids": "11246",
+    "styles": "Ranged,Magic",
+    "speed": "5"
+  },
+  {
+    "name": "Salarin the twisted",
+    "ids": "304",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Sarachnis",
+    "ids": "8713",
+    "styles": "Melee,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Scorpia",
+    "ids": "6615",
+    "styles": "Stab",
+    "speed": "4"
+  },
+  {
+    "name": "Sea Troll Queen",
+    "ids": "4315",
+    "styles": "Crush,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Sigmund",
+    "ids": "5322",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Sir Leye",
+    "ids": "4682",
+    "styles": "Crush",
+    "speed": "5"
+  },
+  {
+    "name": "Sir Mordred",
+    "ids": "3527",
+    "styles": "Slash",
+    "speed": "4"
+  },
+  {
+    "name": "Skotizo",
+    "ids": "7286",
+    "styles": "Slash,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "Slagilith",
+    "ids": "1362,1364,6385",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Slash Bash",
+    "ids": "882",
+    "styles": "Ranged,Crush",
+    "speed": "6"
+  },
+  {
+    "name": "Slug Prince",
+    "ids": "4797",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Sotetseg",
+    "ids": "10864,10865",
+    "styles": "Crush,Magic",
+    "speed": "5"
+  },
+  {
+    "name": "Spindel",
+    "ids": "11998",
+    "styles": "Stab,Magic,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Tarn",
+    "ids": "6475",
+    "styles": "Crush,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Tekton",
+    "ids": "7540,7541,7542",
+    "styles": "Melee",
+    "speed": "3"
+  },
+  {
+    "name": "The Draugen",
+    "ids": "3922",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "The Everlasting",
+    "ids": "3474,6351",
+    "styles": "Crush",
+    "speed": "6"
+  },
+  {
+    "name": "The Illusive",
+    "ids": "3476",
+    "styles": "Melee",
+    "speed": "6"
+  },
+  {
+    "name": "The Inadequacy",
+    "ids": "3473,6350",
+    "styles": "Crush,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "The Maiden of Sugadinti",
+    "ids": "10814",
+    "styles": "Magic",
+    "speed": "10"
+  },
+  {
+    "name": "The Mimic",
+    "ids": "8633",
+    "styles": "Crush,Magic",
+    "speed": "3"
+  },
+  {
+    "name": "The Nightmare",
+    "ids": "9425,9426,9427,9428,9429,9430,9431,9432,9433,9460",
+    "styles": "Slash,Ranged,Magic",
+    "speed": "6"
+  },
+  {
+    "name": "The Untouchable",
+    "ids": "3475,6352",
+    "styles": "Crush",
+    "speed": "6"
+  },
+  {
+    "name": "The Whisperer",
+    "ids": "12204,12205",
+    "styles": "All",
+    "speed": "10"
+  },
+  {
+    "name": "Thermonuclear smoke devil",
+    "ids": "499",
+    "styles": "Typeless Magical ranged",
+    "speed": "2"
+  },
+  {
+    "name": "Tolna",
+    "ids": "1059",
+    "styles": "Slash,Ranged",
+    "speed": "5"
+  },
+  {
+    "name": "Torag the Corrupted",
+    "ids": "1676",
+    "styles": "Crush",
+    "speed": "5"
+  },
+  {
+    "name": "Tree spirit (Lost City)",
+    "ids": "1163,6380",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Treus Dayth",
+    "ids": "6359",
+    "styles": "Ranged,Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Tumeken's Warden",
+    "ids": "11747,11749",
+    "styles": "Melee,Ranged,Magic",
+    "speed": "8"
+  },
+  {
+    "name": "TzKal-Zuk",
+    "ids": "7706",
+    "styles": "Typeless Magic,Typeless Ranged",
+    "speed": "10"
+  },
+  {
+    "name": "TzTok-Jad",
+    "ids": "3127",
+    "styles": "Stab,Magic,Ranged",
+    "speed": "8"
+  },
+  {
+    "name": "Ulfric",
+    "ids": "4500",
+    "styles": "Slash",
+    "speed": "4"
+  },
+  {
+    "name": "Vanguard",
+    "ids": "7529",
+    "styles": "Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Vardorvis",
+    "ids": "12223,12426",
+    "styles": "Slash",
+    "speed": "5"
+  },
+  {
+    "name": "Vasa Nistirio",
+    "ids": "7566,7567",
+    "styles": "Magic,Ranged",
+    "speed": "3"
+  },
+  {
+    "name": "Venenatis",
+    "ids": "6610",
+    "styles": "Stab,Magic,Ranged",
+    "speed": "4"
+  },
+  {
+    "name": "Verac the Defiled",
+    "ids": "1677",
+    "styles": "Stab",
+    "speed": "5"
+  },
+  {
+    "name": "Verzik Vitur",
+    "ids": "8250",
+    "styles": "Magic",
+    "speed": "12"
+  },
+  {
+    "name": "Vespula",
+    "ids": "7530,7531,7532",
+    "styles": "Melee,Ranged",
+    "speed": "3"
+  },
+  {
+    "name": "Vet'ion",
+    "ids": "6611",
+    "styles": "Slash,Magic",
+    "speed": "4"
+  },
+  {
+    "name": "Vorkath",
+    "ids": "8059,8061",
+    "styles": "Slash,Magic,Ranged,Dragonfire",
+    "speed": "5"
+  },
+  {
+    "name": "White golem",
+    "ids": "4743",
+    "styles": "Crush",
+    "speed": "4"
+  },
+  {
+    "name": "Xamphur",
+    "ids": "10951",
+    "styles": "Magic",
+    "speed": "5"
+  },
+  {
+    "name": "Xarpus",
+    "ids": "10766,10767",
+    "styles": "Typeless Ranged,Poison",
+    "speed": "4"
+  },
+  {
+    "name": "Zalcano",
+    "ids": "9049",
+    "styles": "Various",
+    "speed": "5"
+  },
+  {
+    "name": "Zebak",
+    "ids": "11730",
+    "styles": "Melee,Ranged,Magic",
+    "speed": "7"
+  },
+  {
+    "name": "Zulrah",
+    "ids": "2042",
+    "styles": "Ranged",
+    "speed": "3"
+  }
+]
